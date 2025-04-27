@@ -1,1 +1,20 @@
 # pmp-exam-prep
+
+
+Good question — and I’ll give it to you straight:
+
+👉 You do not need to read all of them cover to cover to pass the PMP exam.
+
+Here's the ideal approach:
+
+PMBOK 7: ✅ Must read. It's short compared to PMBOK 6. Focuses on principles and performance domains.
+
+Agile Practice Guide: ✅ Important. Agile is a BIG part of today's PMP exam. Read it completely or at least understand the frameworks (Scrum, Kanban, Hybrid).
+
+PMI Process Groups: A Practice Guide (2023): ✅ Helpful. It's new and aligns with exam changes. It connects PMBOK 6 "processes" to PMBOK 7 thinking.
+
+Optional but HIGHLY recommended for easy understanding and practice:
+
+Rita Mulcahy's 11th Edition: 📘 Rita’s book simplifies hard concepts. Great for quick learning, memory tricks, and practice questions.
+
+Joseph Phillips All-in-One Guide: 📗 Good for practice questions and simplified explanations (if you like his style).
